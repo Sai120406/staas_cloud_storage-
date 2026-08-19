@@ -1,0 +1,38 @@
+### STaaS in Cloud Computing
+
+**STaaS = Storage as a Service**
+
+It is a **cloud computing service model** in which a cloud provider offers **storage space over the internet**. Users can store, access, and manage their data without purchasing or maintaining their own physical storage devices.
+
+### How STaaS works
+
+1. The user uploads data to the cloud.
+2. The cloud provider stores the data in its data centers.
+3. The user can access the data through the internet whenever required.
+4. The provider handles storage infrastructure, maintenance, backups, and often security.
+
+**Example:** Google Drive, Dropbox, OneDrive, and Amazon S3.
+
+### Advantages
+
+* **Cost-effective:** No need to buy expensive storage hardware.
+* **Scalable:** Storage can be increased or decreased as needed.
+* **Accessible:** Data can be accessed from anywhere with an internet connection.
+* **Backup:** Providers can offer automatic backup and data recovery.
+* **Maintenance-free:** The cloud provider manages the underlying hardware.
+* **Pay-as-you-use:** Users generally pay based on the storage and services they consume.
+
+### Limitations
+
+* Requires a reliable **internet connection**.
+* Data is stored on a third-party provider's infrastructure.
+* Security and privacy depend partly on the provider.
+* Large-scale data transfers can take considerable time.
+
+### Simple example
+
+Suppose a company needs **10 TB of storage**. Instead of buying hard drives, servers, and maintaining them, it can use a cloud storage service. The company pays the provider for the storage it uses and can increase it to 20 TB later if required.
+
+**In short:**
+
+> **STaaS provides storage capacity as a cloud service, allowing users to store and access data without managing physical storage infrastructure.**
